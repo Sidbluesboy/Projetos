@@ -11,3 +11,4 @@ Qual o valor máximo de pernoites agendadas?
 Como você interpretaria o seguinte valor do desvio padrão? Preço medio da concorrência é de U$180 +/- U$20
 Quantos nomes de donos de imóveis são únicos?
 Como você interpretaria o seguinte histograma
+ 
